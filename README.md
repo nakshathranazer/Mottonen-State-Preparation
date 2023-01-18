@@ -11,8 +11,10 @@ def state_prep(Optional[list,array]: input_vector): <br> “”” input_vector:
 
 
 #use a framework that works with quantum circuits, qiskit, cirq, pennylane, etc. 
-#define a quantum circuit to convert the vector in a quantum circuit
-#define the Mottonen state
+
+#define a quantum circuit to convert the vector in a quantum circuit.
+
+#define the Mottonen state.
 
 
 Basic Idea from the paper https://arxiv.org/pdf/quant-ph/0407010.pdf
