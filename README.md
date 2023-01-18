@@ -20,7 +20,7 @@ Basic Idea from the paper https://arxiv.org/pdf/quant-ph/0407010.pdf
 We begin from the transformation which equalizes the phases of the
 elements of the input vector |a>and rotates it to the direction of the basis vector |e>. In the next phase the absolutevalues of elements of the target vector |b> are generated and finally the phases are adjusted to match of those of |b>.
 
-In principle, the exact transformation from an n-qubit quantum state |a> into the desired one |b>.
+In principle, the  transformation from an n-qubit quantum state |a> into the desired one |b> is implemented.
 
 
 
